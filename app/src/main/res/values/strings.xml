@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space App</string>
+    <string name="denji">Denji</string>
+    <string name="denji_year">2023</string>
+    <string name="zero_two">Zero Two</string>
+    <string name="zero_two_year">2021</string>
+    <string name="sanji">Sanji</string>
+    <string name="sanji_year">2022</string>
+    <string name="naruto">Naruto</string>
+    <string name="naruto_year">2020</string>
+    <string name="first_picture">pehla</string>
+    <string name="first_year">2020</string>
+    <string name="second_picture">dusra</string>
+    <string name="second_year">2021</string>
+    <string name="third_picture">teesra</string>
+    <string name="third_year">2022</string>
+    <string name="fourth_picture">chautha</string>
+    <string name="fourth_year">2023</string>
+</resources>
